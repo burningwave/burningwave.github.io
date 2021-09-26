@@ -4,6 +4,6 @@
 <img src="https://raw.githubusercontent.com/burningwave/burningwave.github.io/main/logo.png" alt="logo.png" height="180px" align="right"/>
 </a>
 
-## Welcome to Burningwave, a set consisting of a [library for building Java frameworks](https://burningwave.github.io/core/) and other applications and frameworks based on it.
+Welcome to Burningwave, a set consisting of a [library for building Java frameworks](https://burningwave.github.io/core/) and other applications and frameworks based on it.
 
 
