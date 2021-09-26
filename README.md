@@ -9,7 +9,7 @@ Welcome to Burningwave, a set consisting of a [library for building Java framewo
 <br/>
 
 The projects of Burningwave are:
-* [**JVM Driver**](https://burningwave.github.io/jvm-driver/): a driver to allow deep interaction with the JVM without any restrictions
+* [**JVM driver**](https://burningwave.github.io/jvm-driver/): a driver to allow deep interaction with the JVM without any restrictions
 * [**Core**](https://burningwave.github.io/core/): an advanced, free and open source Java frameworks building library
 * [**Tools**](https://burningwave.github.io/tools/): a set of components based on [Core](https://burningwave.github.io/core/) library that have high-level functionality
 * [**Graph**](https://burningwave.github.io/graph/): a framework based on [Core](https://burningwave.github.io/core/) library for creating graphs of synchronous/asynchronous Java method calls using a JSon configuration
