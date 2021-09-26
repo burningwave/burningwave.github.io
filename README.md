@@ -6,4 +6,11 @@
 
 Welcome to Burningwave, a set consisting of a [library for building Java frameworks](https://burningwave.github.io/core/) and other applications and frameworks based on it.
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+With Burningwave's software you can:
+* [create your own dependency injection framework in Java](https://dev.to/bw_software/how-to-create-your-own-dependency-injection-framework-o2l)
+* [making applications created with old Java versions work on Java 9 and later versions](https://dev.to/bw_software/making-applications-created-with-old-java-versions-work-on-java-9-and-later-versions-19ld)
+* [generate classes at runtime and invoke their methods with and without the use of Reflection](https://dev.to/bw_software/generating-classes-at-runtime-and-invoking-their-methods-with-and-without-the-use-of-reflection-in-java-41e3)
