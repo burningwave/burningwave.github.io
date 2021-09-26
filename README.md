@@ -8,7 +8,14 @@ Welcome to Burningwave, a set consisting of a [library for building Java framewo
 
 <br/>
 
+The projects of Burningwave are:
+* [Core](https://burningwave.github.io/core/)
+* [JVM driver](https://burningwave.github.io/jvm-driver/)
+* [Tools](https://burningwave.github.io/tools/)
+* [Graph](https://burningwave.github.io/graph/)
+
 With Burningwave's software you can:
 * [create your own dependency injection framework in Java](https://dev.to/bw_software/how-to-create-your-own-dependency-injection-framework-o2l)
 * [making applications created with old Java versions work on Java 9 and later versions](https://dev.to/bw_software/making-applications-created-with-old-java-versions-work-on-java-9-and-later-versions-19ld)
 * [generate classes at runtime and invoke their methods with and without the use of Reflection](https://dev.to/bw_software/generating-classes-at-runtime-and-invoking-their-methods-with-and-without-the-use-of-reflection-in-java-41e3)
+* [search classes by every criteria that your imagination can make](https://dev.to/bw_software/how-to-scan-the-classpath-in-java-fk8)
