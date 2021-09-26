@@ -9,10 +9,10 @@ Welcome to Burningwave, a set consisting of a [library for building Java framewo
 <br/>
 
 The projects of Burningwave are:
-* [*Core*](https://burningwave.github.io/core/)
-* [*JVM driver*](https://burningwave.github.io/jvm-driver/)
-* [*Tools*](https://burningwave.github.io/tools/)
-* [*Graph*](https://burningwave.github.io/graph/)
+* [**Core**](https://burningwave.github.io/core/)
+* [**JVM driver**](https://burningwave.github.io/jvm-driver/)
+* [**Tools**](https://burningwave.github.io/tools/)
+* [**Graph**](https://burningwave.github.io/graph/)
 
 <br/>
 
