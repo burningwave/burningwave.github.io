@@ -21,3 +21,4 @@ With Burningwave's software you can:
 * [making applications created with old Java versions work on Java 9 and later versions](https://dev.to/bw_software/making-applications-created-with-old-java-versions-work-on-java-9-and-later-versions-19ld)
 * [generate classes at runtime and invoke their methods with and without the use of Reflection](https://dev.to/bw_software/generating-classes-at-runtime-and-invoking-their-methods-with-and-without-the-use-of-reflection-in-java-41e3)
 * [search classes by every criteria that your imagination can make](https://dev.to/bw_software/how-to-scan-the-classpath-in-java-fk8)
+* [do much more](https://dev.to/bw_software/series/10197)
