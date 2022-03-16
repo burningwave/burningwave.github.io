@@ -15,7 +15,7 @@ The projects of Burningwave are:
 * [**Core**](https://burningwave.github.io/core/): an advanced, free and open source Java frameworks building library
 * [**Tools**](https://burningwave.github.io/tools/): a set of components based on [Core](https://burningwave.github.io/core/) library that have high-level functionality
 * [**Graph**](https://burningwave.github.io/graph/): a framework based on [Core](https://burningwave.github.io/core/) library for creating graphs of synchronous/asynchronous Java method calls using a JSon configuration
-* [**Miscellaneous Services**](https://burningwave.github.io/miscellaneous-services/) a simple application with which is possible to retrieve some statistical data
+* [**Miscellaneous Services**](https://burningwave.github.io/miscellaneous-services/): a simple application with which is possible to retrieve some statistical data
 
 <br/>
 
