@@ -17,7 +17,7 @@ jobs:
     name: Update artifact downloads
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Clear Camo cache and update README.md
         run: |
           curl -X PURGE https://camo.githubusercontent.com/82611965977b9b7096a41ec1254e0e5d5d79cc315f700f6fd46cf523fc5eaba4/68747470733a2f2f7777772e6275726e696e67776176652e6f72672f67656e657261746f72732f67656e65726174652d6275726e696e67776176652d61727469666163742d646f776e6c6f6164732d62616467652e7068703f747970653d737667
