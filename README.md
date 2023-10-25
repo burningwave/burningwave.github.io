@@ -1,4 +1,4 @@
-# Burningwave [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=%40burningwave_org%20A%20collection%20of%20%23Java%20libraries%20for%20building%20frameworks%20and%20applications%20based%20on%20it&url=https://burningwave.github.io/)
+# Burningwave [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=%40burningwave_org%20a%20collection%20of%20%23Java%20libraries%20for%20building%20frameworks%20and%20applications%20based%20on%20it&url=https://burningwave.github.io/)
 
 [![Artifact downloads](https://www.burningwave.org/generators/generate-burningwave-artifact-downloads-badge.php)](https://www.burningwave.org/artifact-downloads/?show-overall-trend-chart=false)
 [![GitHub stars](https://www.burningwave.org/generators/generate-github-stars-badge.php)](https://github.com/burningwave)
